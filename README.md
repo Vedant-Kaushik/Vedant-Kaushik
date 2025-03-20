@@ -14,7 +14,7 @@
  
 
 📫 **Let's connect:**  
-[LinkedIn](https://www.linkedin.com/in/vedant-kaushik-b69916315/) | [GitHub](https://github.com/Vedant-Kaushik)  
+[LinkedIn](https://www.linkedin.com/in/vedant-kaushik-b69916315/) 
 
 
 # 💻 Tech Stack:
