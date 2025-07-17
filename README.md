@@ -31,7 +31,7 @@ My projects blend machine learning, LLMs, automation tools like n8n, and cloud t
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=vedant-kaushik&theme=swift&hide_border=false&include_all_commits=true&count_private=true" width="45%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=vedant-kaushik&theme=swift&hide_border=false" width="48%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=vedant-kaushik&theme=swift&hide_border=true" width="49%" />
 
 
 </div>
