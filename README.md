@@ -1,6 +1,23 @@
-# 💫 About Me:
-I'm currently working on 🔥: Diving into the sizzling 🔥 world of ChromeReader 🌐 and Smart.PDF 📑, crafting AI magic to transform web content and PDF vibes into pure gold! 🚀💃<br>I'm looking to collaborate on 🤝: Craving a hot collab on 🔥 AI or machine learning grooves 🎯—imagine wild real-time data jams or educational tech that blows minds! 🌟💥<br>I'm looking for help with 💪: Calling all geniuses to amp up my deep learning swagger 🎮—let’s push that 95% Tumor Detection accuracy to a dazzling 99% 💯 and turbocharge Smart.PDF with next-level NLP flair! 🧠🎉<br>I'm currently learning 📚: Exploring the starry cosmos of cloud tech ☁️ (AWS, Docker) and mastering LangGraph to make my projects pop with galactic glow! 🌈👑<br>Ask me about 💬: Spill the juicy details on my Estrella Astronomy Club reign 👑 or how I whipped up that sexy WhatsApp twist in Agentic AI! 📲😘<br>Fun fact ⚡: Catch me stargazing under the moonlight 🌠—those epic event nights lit the spark for my tech obsession! ✨🎆
+# 👋 Hey, I'm Vedant — welcome to my GitHub!
 
+I'm a passionate developer, AI explorer
+I love building things that make people say *"Whoa, that’s useful!"*
+
+🧠 From decoding medical scans with deep learning to building tools that help you read smarter, to automating real-world workflows with AI agents — this is where I turn ideas into working products.
+
+My projects blend machine learning, LLMs, automation tools like n8n, and cloud tech like AWS & Docker — all to create tools that are not just clever, but **impactful**.
+
+---
+
+## 🌟 What you'll find here:
+- Tools that read the web and PDFs **so you don’t have to** 🧾
+- Deep learning models that tackle real-world problems like **tumor detection** 🔬
+- Smart agents that connect **WhatsApp, Airtable, and automation** into seamless workflows ⚙️
+- Experiments with **LangChain, LangGraph, and conversational AI** 🤖
+
+---
+
+> 💬 Want to collaborate, jam on an idea, or just talk shop? 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-kaushik-b69916315/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vedantkaushik2008) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantkaushik205@gmail.com.) 
